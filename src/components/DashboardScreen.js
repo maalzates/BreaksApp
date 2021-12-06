@@ -2,7 +2,7 @@ import React from 'react'
 
 const DashboardScreen = () => {
     return (
-        <div>
+        <div className="container">
             <h1>DashboardScreen</h1>
         </div>
     )
