@@ -1,7 +1,7 @@
 import React from 'react'
 import MainRouter from './routes/MainRouter';
 
-const BreakApp = () => {
+const BreaksApp = () => {
     return (
         <>
             <MainRouter/>
@@ -9,4 +9,4 @@ const BreakApp = () => {
     )
 }
 
-export default BreakApp
+export default BreaksApp

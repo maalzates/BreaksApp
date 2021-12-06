@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import BreakApp from './BreakApp';
+import BreaksApp from './BreaksApp';
+
 
 ReactDOM.render(
-    <BreakApp />,
+    <BreaksApp/>,
   document.getElementById('root')
 );
